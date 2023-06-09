@@ -1,16 +1,10 @@
-# destini
+# Destini
 
-A new Flutter project.
+This is a class project corresponding to Mobile Development Course, Intec.
 
-## Getting Started
+### What's this project about?
+This is a project with the objective is a story tree depending on users decision, at the end, there is not a correct way, just to learn about flutter ramifications.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About author
+**Name:** Deivy Peña.
+**ID0:** 1099429.
